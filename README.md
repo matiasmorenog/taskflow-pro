@@ -14,6 +14,10 @@ TaskFlow Pro is a task management app focused on real delivery workflows. It dem
 - Dashboard stats with completion rate
 - LocalStorage persistence
 
+## Live Demo
+
+[Open TaskFlow Pro](https://taskflow-pro-mmoreno.vercel.app/)
+
 ## Tech Stack
 
 - React
@@ -38,4 +42,3 @@ npm run preview
 
 - Add tests with Vitest + Testing Library
 - Add CI workflow for test/build
-- Deploy live demo and link it here
